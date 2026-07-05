@@ -10,6 +10,11 @@ No frameworks were used. Everything was implemented manually for educational pur
 
 # Project Goals
 
+Project URL : 
+```bash
+https://github.com/SagoRohit/Task-CLI
+```
+
 This project focuses on learning:
 
 - TypeScript
