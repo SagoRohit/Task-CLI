@@ -12,7 +12,7 @@ No frameworks were used. Everything was implemented manually for educational pur
 
 Project URL : 
 ```bash
-https://github.com/SagoRohit/Task-CLI
+https://roadmap.sh/projects/task-tracker
 ```
 
 This project focuses on learning:
