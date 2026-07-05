@@ -268,11 +268,11 @@ Clone the repository
 git clone https://github.com/SagoRohit/Task-CLI.git
 ```
 
-Go inside the project
+<!-- Go inside the project
 
 ```bash
 cd cli-task-tracker
-```
+``` -->
 
 Install dependencies
 
